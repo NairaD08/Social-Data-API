@@ -63,3 +63,9 @@ GitHub: NairaD08
 Email: naira.davtyan08@gmail.com
 
 Feel free to customize the sections such as the repository link, your username, and contact information as needed. This README provides a clear overview of the project, installation instructions, usage details, and API routes, meeting the acceptance criteria you specified.
+
+
+
+https://github.com/user-attachments/assets/34bb7041-716d-4d67-bb75-4da814712771
+
+
